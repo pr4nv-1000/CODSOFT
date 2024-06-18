@@ -1,0 +1,1 @@
+This repository contains the submissions for the 5 tasks assigned during the Data Science Internship. Each task demonstrates different aspects of data science including data cleaning, exploratory data analysis, machine learning, and data visualization.
