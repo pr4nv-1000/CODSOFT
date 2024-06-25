@@ -23,6 +23,7 @@ The repository is organized as follows:
 ├── Task5/
 │   ├── TASK_5.ipynb
 │   ├── creditcard
+├── requirements.txt
 └── README.md
 ```
 
