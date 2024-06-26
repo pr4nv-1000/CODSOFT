@@ -41,7 +41,7 @@ The repository is organized as follows:
         - 'TASK_1.ipynb'
         - 'Titanic-Dataset.csv' 
 
-- **Task 2 : Movie Rating Prediciton with Python**
+- **Task 2 : Movie Rating Prediction with Python**
     - **Objective** : Build a model that predicts the rating of a movie based on
         features like genre, director, and actors.
     - **Description** : The goal is to analyze
